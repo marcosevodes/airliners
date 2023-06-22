@@ -1,4 +1,4 @@
-# The Evolution of Smartphones and Mobile Handsets, 2000-2020
+# The Evolution of Commercial Passenger Aircraft, 1932-2020
 
 This dataset is the outcome of my PhD thesis entitled “How Product Designs Evolve”. This study analysed the data sheets of 13,212 mobile phones released globally by 297 brands. This census covered the specifications of feature phones, personal digital assistants (PDAs), and smartphones released between January 2000 and December 2020. Data was collected from specialised mobile phone comparison websites, and 91 product attributes and performance indicators were gathered for each smartphone model. For more information on the methodology, please refer to my thesis at www.designevolution.wiki
 
